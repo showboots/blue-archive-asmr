@@ -37,6 +37,14 @@ Place the appropriate subtitle files in the same directory as your audio files, 
 
 == 備考欄
 
+Do not redistribute or repost the contents of https://github.com/showboots/blue-archive-asmr[this repository].
+Link directly to this project instead.
+Depending on circumstances, I may mirror this repository on another service.
+
+転載禁止。
+共有したい場合必ずこのリポジトリのURLを使ってください。
+尚、必要に応じて他プラットフォームにミラーリングするかもしれません。
+
 本リポジトリは株式会社Yostarと一切属してません。
 
 お問い合わせが必要な場合、link:https://github.com/orgs/showboots/discussions/new?category=q-a[ここにスレを作成してください]。
