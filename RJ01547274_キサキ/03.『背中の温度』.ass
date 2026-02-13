@@ -13,8 +13,6 @@ PlayResY: 720
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Audio File: RJ01547274_【ブルーアーカイブ】キサキASMR～混ざる香りと夢心地～/03. 背中の温度.ogg
-Scroll Position: 2
-Active Line: 27
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,6 +20,7 @@ Style: Default,M+2 Nerd Font,68,&H00FFFFFF,&H000000FF,&H003F3F3F,&H00000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,,0,0,0,,{\an8}Track 3: Warmth From Her Back (tentative)
 Dialogue: 0,0:00:03.57,0:00:03.97,Default,,0,0,0,,
 Dialogue: 0,0:00:04.36,0:00:04.59,Default,,0,0,0,,
 Dialogue: 0,0:00:05.15,0:00:05.51,Default,,0,0,0,,

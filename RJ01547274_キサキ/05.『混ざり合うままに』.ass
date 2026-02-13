@@ -20,6 +20,7 @@ Style: Default,M+2 Nerd Font,68,&H00FFFFFF,&H000000FF,&H003F3F3F,&H00000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,,0,0,0,,{\an8}Track 5: In Each Other's Embrace (tentative)
 Dialogue: 0,0:00:03.95,0:00:05.73,Default,,0,0,0,,
 Dialogue: 0,0:00:06.88,0:00:08.16,Default,,0,0,0,,
 Dialogue: 0,0:00:09.29,0:00:12.31,Default,,0,0,0,,
